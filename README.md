@@ -1,6 +1,6 @@
 # BudgetFree
 
-This project could help meet the need for a free and open-source personal budgeting software which is accessible from any device. The back-end web-app runs on Node.js and connects to a PostgreSQL database via the ORM Sequelize. The app provides a RESTful API with authentication and CRUD functionality for front-end projects.
+Budgeting web-app back-end (REST API) built with PostgreSQL/Sequelize, Express/Node/NPM, and ES6 JavaScript. Features session authentication, data validation, CRUD functionality, and reporting. Developed, documented, and presented for capstone project.
 
 ## Local Install and Config for Developers
 
